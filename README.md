@@ -18,8 +18,11 @@ there are 2 arc reactors in this project one is classic proof that tony has a he
 magnet holes are lot more visible in the slicer
 
 ## Lapses
+
 https://lapse.hackclub.com/timelapse/EeU5YKKHaBZ1
+
 https://lapse.hackclub.com/timelapse/snvzpF_E_Kwo
+
 https://lapse.hackclub.com/timelapse/giS42yd8Fvwd
 
 
