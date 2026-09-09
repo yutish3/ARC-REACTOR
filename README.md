@@ -1,6 +1,10 @@
 # ARC-REACTOR
 https://www.printables.com/model/1834106-arc-reactors
 
+## Files
+.stl is on github
+.F3d (the project file with timeline) is on printables (coz of github upload limit of 25mb)
+
 ## About the Project
 there are 2 arc reactors in this project one is classic proof that tony has a heart and one that has holes for magnets so you can put one piece of it inside your t-shirt and other outside for a cool arc reactor chest piece.
 
